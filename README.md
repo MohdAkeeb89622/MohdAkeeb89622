@@ -17,20 +17,49 @@ Results-oriented professional with 4+ years across software development and tech
 
 ### 🧠 Core Skills & Tools
 <p>
+  <!-- Core Programming & Data -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Amazon%20QuickSight-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+
+  <br/>
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Linear%20Regression-0A66C2" />
+  <img src="https://img.shields.io/badge/Decision%20Tree-228B22" />
+  <img src="https://img.shields.io/badge/Random%20Forest-006400" />
+  <img src="https://img.shields.io/badge/KNN-8A2BE2" />
+  <img src="https://img.shields.io/badge/PCA-FF8C00" />
+  <img src="https://img.shields.io/badge/EDA-4682B4" />
+
+  <br/>
+
+  <!-- Deep Learning & NLP -->
+  <img src="https://img.shields.io/badge/Deep%20Learning-7B68EE" />
+  <img src="https://img.shields.io/badge/CNN-FF1493" />
+  <img src="https://img.shields.io/badge/RNN-9370DB" />
+  <img src="https://img.shields.io/badge/NLP-4B0082" />
+  <img src="https://img.shields.io/badge/LLMs-FF4500" />
+  <img src="https://img.shields.io/badge/Text%20Processing-2F4F4F" />
+  <img src="https://img.shields.io/badge/Image%20Processing-2E8B57" />
+  <img src="https://img.shields.io/badge/Audio%20Processing-8B4513" />
+
+  <br/>
+
+  <!-- Tools & Frontend -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 </p>
+
 
 ---
 
