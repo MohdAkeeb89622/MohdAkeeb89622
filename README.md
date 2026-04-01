@@ -1,102 +1,117 @@
-<!-- Profile README: Mohd. Akeeb Khan -->
-<h1 align="center">Mohd. Akeeb Khan</h1>
-<p align="center">
-  📍 Bhopal, India · 💼 Entry-Level Data Scientist · 🎓 DS/ML (IIT Guwahati & Masai)<br/>
-  <a href="mailto:akeeb.0157cse@gmail.com">akeeb.0157cse@gmail.com</a> ·
-  <a href="https://github.com/MohdAkeeb89622">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/mohd-akeeb-khan-766885176/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
-  <a href="https://portfolionew-five.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
-</p>
+# Mohd. Akeeb Khan
+
+**Data Scientist who builds and ships.**
+
+📍 Bhopal, Madhya Pradesh &nbsp;|&nbsp; 📧 [akeeb.0157cse@gmail.com](mailto:akeeb.0157cse@gmail.com) &nbsp;|&nbsp; 📞 +91 8319638561
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-akeeb-khan-766885176)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolios-frontend-7q1x.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MohdAkeeb89622)
 
 ---
 
 ### 👋 About
-Results-oriented professional with 4+ years across software development and tech recruiting, now focused on **Data Science & ML**. I work end-to-end: **SQL + Python (Pandas/NumPy)** → **EDA & feature engineering** → **model training/evaluation** → **dashboards/APIs** people actually use. Prior **React/JavaScript** helps me turn insights into clean, fast UIs.
+
+Hands-on with **Python**, **machine learning**, and **time-series anomaly detection** — with a live deployed project to prove it. I don't just train models; I turn them into working applications. Skilled in **Scikit-learn**, **Pandas**, **NumPy**, **FastAPI**, and **React**, able to own the full pipeline from raw data to a product people can actually use.
 
 ---
 
-### 🧠 Core Skills & Tools
+### 🧠 Technical Skills
+
+<!-- Programming & Data -->
 <p>
-  <!-- Core Programming & Data -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+</p>
 
-  <br/>
-
-  <!-- Machine Learning -->
+<!-- Machine Learning -->
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Linear%20Regression-0A66C2" />
-  <img src="https://img.shields.io/badge/Decision%20Tree-228B22" />
   <img src="https://img.shields.io/badge/Random%20Forest-006400" />
-  <img src="https://img.shields.io/badge/KNN-8A2BE2" />
-  <img src="https://img.shields.io/badge/PCA-FF8C00" />
-  <img src="https://img.shields.io/badge/EDA-4682B4" />
+  <img src="https://img.shields.io/badge/Decision%20Tree-228B22" />
+  <img src="https://img.shields.io/badge/SVM-8A2BE2" />
+  <img src="https://img.shields.io/badge/K--Means-FF8C00" />
+  <img src="https://img.shields.io/badge/PCA-4682B4" />
+  <img src="https://img.shields.io/badge/LDA-2F4F4F" />
+</p>
 
-  <br/>
-
-  <!-- Deep Learning & NLP -->
+<!-- Deep Learning -->
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-7B68EE" />
   <img src="https://img.shields.io/badge/CNN-FF1493" />
   <img src="https://img.shields.io/badge/RNN-9370DB" />
   <img src="https://img.shields.io/badge/NLP-4B0082" />
-  <img src="https://img.shields.io/badge/LLMs-FF4500" />
-  <img src="https://img.shields.io/badge/Text%20Processing-2F4F4F" />
-  <img src="https://img.shields.io/badge/Image%20Processing-2E8B57" />
-  <img src="https://img.shields.io/badge/Audio%20Processing-8B4513" />
+</p>
 
-  <br/>
-
-  <!-- Tools & Frontend -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<!-- Web & Deployment -->
+<p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
+---
+
+### 🚀 Projects
+
+#### 📈 Stock Market Anomaly Detection — *Live*
+> Python · Scikit-learn · FastAPI · React · Render
+
+- Built a **leakage-safe** anomaly detection framework using **21-day and 63-day rolling windows** across thousands of ticker-day records.
+- Engineered features: **return z-scores**, **log-volume z-scores**, and **intraday range percentiles** — past-only windows to prevent data leakage.
+- Implemented **rule-based + KMeans/DBSCAN** detectors with market-wide breadth indicators to flag systemic stress events.
+- Deployed as a full-stack web application with a **FastAPI** backend and **React** frontend.
+
+🔗 **[Live App](https://portfolios-frontend-7q1x.onrender.com)** &nbsp;|&nbsp; 📂 **[Source Code](https://github.com/MohdAkeeb89622/DATA-SCIENCE-CAPSTONE-PROJECT)**
 
 ---
 
-### 🧪 Selected Projects
-- **Stock Market Anomaly Detection (Capstone)** — *Python, Pandas, NumPy*  
-  Leakage-free rolling features on daily OHLCV (returns, log-volume z-score, intraday range percentile) and interpretable anomaly flags; daily/weekly outputs for review.
+### 💼 Professional Experience
 
-- **Reporting & Document Workflows** — *SQL, Python, PDF/Excel*  
-  Print-ready reports and KPI alignment against SQL extracts to eliminate dashboard/source mismatches.
+**Web Developer (React / Frontend)** — Hacking Laymen, Bhopal &nbsp;|&nbsp; *Dec 2021 – Dec 2024*
+- Designed and developed **10+ responsive web applications** using **React.js**, **JavaScript**, **HTML5**, and **CSS3** across e-commerce, healthcare, and service-based platforms.
+- Built client-facing dashboards with real-time data display, **PDF report generation**, and **Excel export** functionality.
+- Delivered end-to-end projects — **Alphachoice.in** (e-commerce, cart & payments), **Newlifehomoeopathy.com** (WooCommerce), **Urbandiaries.in** (blog platform).
+- Collaborated with clients on **UI/UX designs** and consistently met deadlines across multiple simultaneous engagements.
+- Optimised component architecture for reusability and performance, reducing **page load times** across projects.
 
-- **Client Web Work (selected)** — *React/JS / WordPress*  
-  **Alphachoice.in** (e-commerce: catalog, cart, wishlist, payments), **Newlifehomoeopathy.com** (WooCommerce storefront), **Urbandiaries.in** (lightweight blog).
-
-> Add public demo links when available.
-
----
-
-### 🏢 Experience (brief)
-- **TalNurt** — Senior IT Global Recruitment Consultant (Apr 2025–Aug 2025, Remote)  
-  Full-cycle tech recruiting; data-driven funnels and reporting.
-- **Hacking Laymen** — Web Developer (React/Frontend) (Dec 2022–Jan 2024)  
-  Reusable UIs, reporting/print views, deployments/sprints.
-- **Infinity Solutions Canada** — Junior IT Recruiter (Nov 2021–Oct 2022)  
-- **Acufer Technologies** — Java Intern (Jul 2021–Oct 2021)
+**Java Intern** — Acufer Technologies, Bhopal &nbsp;|&nbsp; *Jul – Oct 2021*
+- Developed a Java-based login and user management web application during internship training.
 
 ---
 
-### 🎓 Education & Certifications
-- **Data Science & Machine Learning (Certification)** — Daksh Gurukul (IIT Guwahati), 2025–2026  
-- **B.Tech (CSE)** — RGPV, 2017–2021  
-- **Certs:** MTA: Intro to Programming Using Python · English Proficiency (Duolingo) · DS with ML (Workshop)
+### 🎓 Education
+
+| Qualification | Institution | Year |
+|---|---|---|
+| Data Science & Machine Learning Certification | Daksh Gurukul, IIT Guwahati | 2025 – 2026 |
+| B.Tech — Computer Science Engineering | RGPV, Bhopal | 2017 – 2021 |
+
+---
+
+### 📜 Certifications
+
+- Microsoft Technology Associate (MTA): Introduction to Programming Using Python
+- Data Science with Machine Learning — Workshop Certificate
+- English Proficiency Certificate — Duolingo
 
 ---
 
 ### 📬 Contact
-- Email: **akeeb.0157cse@gmail.com**  
-- Phone: **+91 8319638561**  
-- Portfolio: **https://portfolios-frontend-7q1x.onrender.com/**  
-- GitHub: **https://github.com/MohdAkeeb89622**  
-- LinkedIn: **https://www.linkedin.com/in/mohd-akeeb-khan-766885176/**
+
+| | |
+|---|---|
+| 📧 Email | [akeeb.0157cse@gmail.com](mailto:akeeb.0157cse@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/mohd-akeeb-khan-766885176](https://linkedin.com/in/mohd-akeeb-khan-766885176) |
+| 🌐 Portfolio | [portfolios-frontend-7q1x.onrender.com](https://portfolios-frontend-7q1x.onrender.com) |
+| 💻 GitHub | [github.com/MohdAkeeb89622](https://github.com/MohdAkeeb89622) |
